@@ -1,7 +1,7 @@
 package com.raghu;
 
 /*
- * Priyanka has writte this coode 
+ * Ranjan has writte this coode 
  */
 
 import org.springframework.boot.SpringApplication;
